@@ -1,2 +1,1 @@
-# setu
 LPIA Setu Bekasi
